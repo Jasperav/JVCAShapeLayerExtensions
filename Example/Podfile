@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVCAShapeLayerExtensions_Tests' do
+  pod 'JVCAShapeLayerExtensions', :path => '../'
+  
+  
+end

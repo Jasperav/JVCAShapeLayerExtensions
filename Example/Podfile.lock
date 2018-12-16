@@ -1,0 +1,16 @@
+PODS:
+  - JVCAShapeLayerExtensions (0.1.0)
+
+DEPENDENCIES:
+  - JVCAShapeLayerExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  JVCAShapeLayerExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVCAShapeLayerExtensions: b78009a02052415c936bc239224e9c281920db13
+
+PODFILE CHECKSUM: bc21332b7fc519f1d31e440215e761ccca34f525
+
+COCOAPODS: 1.6.0.beta.1
